@@ -1,0 +1,2 @@
+@media print{.hide-on-desktop{display:none}}
+@media print{.include-in-print{display:block}}

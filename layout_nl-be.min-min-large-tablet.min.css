@@ -1,0 +1,35 @@
+@media screen and (min-width:53.1875em){.mobile-only{display:none!important}}
+@media screen and (min-width:53.1875em){.visuallyhidden-tablet{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}}
+@media screen and (min-width:53.1875em){.padding-x-small{padding:1.5rem}}
+@media screen and (min-width:53.1875em){.padding-x-small.form__error-summary,.padding-x-small.panel--notice{padding:1.2rem}}
+@media screen and (min-width:53.1875em){.padding-small{padding:2rem}}
+@media screen and (min-width:53.1875em){.padding-small.form__error-summary,.padding-small.panel--notice{padding:1.7rem}}
+@media screen and (min-width:53.1875em){.padding-large{padding:3rem}}
+@media screen and (min-width:53.1875em){.padding-large.form__error-summary,.padding-large.panel--notice{padding:2.7rem}}
+@media screen and (min-width:53.1875em){.padding-x-large{padding:3rem 6rem}}
+@media screen and (min-width:53.1875em){.spacer-x-small{margin-bottom:1rem!important}}
+@media screen and (min-width:53.1875em){.spacer-small{margin-bottom:2rem!important}}
+@media screen and (min-width:53.1875em){.spacer-medium{margin-bottom:2.5rem!important}}
+@media screen and (min-width:53.1875em){.spacer-large{margin-bottom:3rem!important}}
+@media screen and (min-width:53.1875em){.spacer-x-large{margin-bottom:6rem!important}}
+@media screen and (min-width:53.1875em){.indent-left-small{padding-left:2rem}}
+@media screen and (min-width:53.1875em){.align-central-tablet{text-align:center!important}}
+@media screen and (min-width:53.1875em){.align-left-tablet{text-align:left!important}}
+@media screen and (min-width:53.1875em){.align-right-tablet{text-align:right!important}}
+@media screen and (min-width:53.1875em){.vertical-align-desktop{position:relative;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}}
+@media screen and (min-width:53.1875em){.constrained--medium{padding:0;max-width:77.5rem}}
+@media screen and (min-width:53.1875em){.constrained--narrow{padding:0;max-width:64.5rem}}
+@media screen and (min-width:53.1875em){.section{padding-top:6.5rem;padding-bottom:6.5rem}}
+@media screen and (min-width:53.1875em){.section .constrained,.section .section__inner__constrained{padding-left:1rem;padding-right:1rem}}
+@media screen and (min-width:53.1875em){.js .popup .popup__inner.popup--large{max-width:80rem;width:80rem}}
+@media screen and (min-width:53.1875em){dl,fieldset,figure,h1,h2,h3,h4,h5,h6,hr,img,legend,ol,p,pre,small,table,ul{margin-bottom:1.5rem}}
+@media screen and (min-width:53.1875em){.alpha,h1{font-size:4.2rem;line-height:1.19}}
+@media screen and (min-width:53.1875em){.beta,h2{font-size:2.8rem;line-height:1.28}}
+@media screen and (min-width:53.1875em){.gamma,h3{font-size:2rem;line-height:1.3}}
+@media screen and (min-width:53.1875em){.delta,h4{font-size:1.6rem;line-height:1.37}}
+@media screen and (min-width:53.1875em){.epsilon,h5{font-size:1.4rem;line-height:1.42}}
+@media screen and (min-width:53.1875em){.zeta,h6{font-size:1.2rem;line-height:1.42}}
+@media screen and (min-width:53.1875em){.deci{font-size:1.4rem;line-height:1.42}}
+@media screen and (min-width:53.1875em){.centi,.note,figcaption,small{font-size:1.2rem;line-height:1.5}}
+@media screen and (min-width:53.1875em){.milli,.padding-small--custom{font-size:1.1rem;line-height:1.45}}
+@media screen and (min-width:53.1875em){.page-title{padding-top:3rem}}

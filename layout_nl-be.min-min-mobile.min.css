@@ -1,0 +1,5 @@
+@media screen and (min-width:30em){.close-icon,.mfp-close{right:0}}
+@media screen and (min-width:30em){.js .popup .popup__inner{min-width:39rem;max-width:57rem}}
+@media screen and (min-width:30em){.popup__section{margin-left:-3rem;margin-right:-3rem;padding:2rem 3rem;font-size:1.4rem}}
+@media screen and (min-width:30em){.modal-heading{padding:2rem 0 1.5rem}}
+@media screen and (min-width:30em){.popup--modal .btn{display:inline-block;width:auto}}
